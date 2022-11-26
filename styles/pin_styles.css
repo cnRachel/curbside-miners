@@ -44,7 +44,6 @@
 .pin_modal .modal_head .save_card {
 	margin-right: 20px;
 	width: 53px;
-	height: 40px;
 	border-radius: 22px;
 	display: flex;
 	justify-content: center;
@@ -54,7 +53,6 @@
 	font-weight: 700;
 
 	color: white;
-	background-color: #49A078;
 	cursor: pointer;
 }
 
