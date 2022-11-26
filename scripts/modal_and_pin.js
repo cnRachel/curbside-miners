@@ -84,6 +84,9 @@ function create_pin(pin_details) {
     <div class="modal_head">
         <img src="/images/map.png" alt="google maps" class="save_card">
     </div>
+    <div class="modal_middle">
+        <p>${pin_details.title}</p>
+    </div>
 
     <div class="modal_foot">
         <div class="destination">

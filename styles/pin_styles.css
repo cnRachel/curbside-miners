@@ -56,6 +56,14 @@
 	cursor: pointer;
 }
 
+.pin_modal p {
+	text-align: center;
+	justify-content: center;
+	padding: 50% 0%;
+	font-weight: 600;
+	color: #ffffff;
+}
+
 .pin_modal .modal_foot {
 	width: 100%;
 	height: 15%;
